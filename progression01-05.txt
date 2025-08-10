@@ -1,0 +1,3 @@
+
+week1  เรียน array (push,popfrom,of) วนลูปแสดงข้อมูล จัดการ string ใช้ destructure จาก array 
+เอาเนื้อหาที่อาจารย์สอน ไปให้ chatgpt สร้างโจทย์ พอเขียนเสร็จก็ใช้ chat ช่วยตรวจ

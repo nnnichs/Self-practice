@@ -1,0 +1,26 @@
+ใช้chatgptในการสร้างโจทย์ ฝึกทำแยกข้อเหมือนในclass แล้วโจทย์รวมอีกที
+ข้อ 1 สร้างArray มาเก็บค่า แสดงค่าตัวแรกด้วย myData[0] แสดงค่าตัวสุดท้าย ด้วย myData[myData.length - 1]
+
+ข้อ 2 ใช้ .push() เพิ่มข้อมูลใหม่ใน array ใช้ .pop() ลบข้อมูลตัวสุดท้ายใน array
+
+ข้อ 3 ใช้ for loop วนอ่านค่า array ทีละตัว
+
+ข้อ 4 สร้างตัวแปรเก็บข้อความ  [...myStr] แปลงข้อมูลเป็น array
+
+ข้อ 5 ใช้ Array.of() สร้าง array ใช้ Array.from() ก็อปตัวเก่ามาเป็นตัวใหม่ 
+
+ข้อ 6 [ , , x, , ...y] ดึงค่าจาก Array ทีละหลายๆตัว 
+
+ข้อรวม สร้าง studentInfo  เป็น array เก็บ 
+studentInfo.push เพิ่มชื่อโรงเรียน 
+ใช้ for loop วนแสดงข้อมูล  
+let message สร้างข้อความ ใช้ (...)แปลงข้อมูลเป็น array
+สร้างอาร์เรย์เก็บคะแนนนักเรียน
+let score = Array.of สร้าง array เก็บคะแนน
+let scores = Array.from คัดลอกอาร์เรย์
+const testscores สร้าง array testscores
+const [, , thirdScore, , ...laterScores] = testscores;
+    console.log("Third score:", thirdScore); ดึงคะแนนอันที่ 3 ไปไว้ thirdScore 
+    console.log("laterscore", laterScores); ดึงคะแนนอันที่ 4 ไว้ใน laterscore
+
+studentInfo.pop ลบสมาชิกตัวสุดท้ายออกจาก studentInfo 
