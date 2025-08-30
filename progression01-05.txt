@@ -8,3 +8,6 @@ week2 เรื่องเปรียบเทียบ object ตรวจส
 
 week3 เรียนเรื่อง Function ของ JavaScript ตั้งแต่พื้นฐาน syntax, การใช้ return, arrow function, function as object, 
 การคิดแบบbasic programing หาโจทย์จาก chat ทำเพิ่ม เอาโจทย์ในห้อง มาทวนใหม่
+
+week4 เรียนเรื่อง Array Methods  , Callback Function และ Higher-Order Function , 
+เมธอด push(), pop(), shift(), unshift() , เทคนิคการ debug เวลาเขียนโปรแกรม

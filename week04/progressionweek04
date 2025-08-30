@@ -1,0 +1,8 @@
+
+Array Methods (เมธอดของอาเรย์ใน JavaScript)
+อาจารย์สอนเรื่อง iterator methods เช่น
+forEach() → ใช้สำหรับวนลูป แต่ ไม่ return ค่า
+filter() → ใช้กรองข้อมูลตามเงื่อนไข โดยต้องเขียน callback function ที่คืนค่า true/false
+map() → ใช้แปลงข้อมูลแต่ละ element ให้เป็นค่าใหม่ แล้วคืน array ใหม่
+reduce() → ใช้สะสมผลลัพธ์ (accumulator) เช่น การบวกผลรวม
+เน้นความแตกต่างระหว่างเมธอดที่ แก้ไขค่าใน original array (เช่น reverse(), splice()) กับเมธอดที่ สร้าง array ใหม่โดยไม่แก้ original (เช่น filter(), map(), slice())
