@@ -5,3 +5,6 @@ week1  เรียน array (push,popfrom,of) วนลูปแสดงข้
 week2 เรื่องเปรียบเทียบ object ตรวจสอบว่า object สองตัว มีkey กับ value เหมือนกันมั้ย หัดใช้ Object.keys() 
 มานับจำนวน key แล้ววนลูปเช็คค่าทีละตัว ถ้าทุกค่าเหมือนกันจะคืนค่า true ถ้ามีต่างกันจะคืนค่า false แล้วก็ลองทำความเข้าใจ code อาจารย์
 หาโจทย์เพิ่ม จาก chatgpt หาคำอธิบายเพิ่ม
+
+week3 เรียนเรื่อง Function ของ JavaScript ตั้งแต่พื้นฐาน syntax, การใช้ return, arrow function, function as object, 
+การคิดแบบbasic programing หาโจทย์จาก chat ทำเพิ่ม เอาโจทย์ในห้อง มาทวนใหม่
