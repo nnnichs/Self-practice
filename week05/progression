@@ -1,0 +1,13 @@
+
+//หาวิธีใช้ อธิบายเพิ่มจาก chat แล้วเอามาทำโจทย์ ใช้ทั้งโจทย์ในห้องแล้วก็หาโจทย์เพิ่ม ให้chatqptสร้างโจทย์ให้
+filter(), map(): ใช้เลือกข้อมูลและแปลงค่าใน array
+Object.entries(): แปลง object เป็น array ของ key–value
+Array.isArray(): ตรวจว่า input เป็น array หรือไม่
+การ merge array ด้วย concat() และ spread operator (...)
+toString() และ join(): แปลง array เป็น string
+includes() ใน array vs string → เช็คแตกต่างกัน
+reverse(): ระวังเพราะแก้ค่าใน array เดิม (in-place)
+sort(): เรียงข้อมูล (default เป็น text, ต้องเขียน comparator เองถ้าอยากเรียงเป็นตัวเลขมาก→น้อย)
+localeCompare(): ใช้เปรียบเทียบ string ตามภาษา (ภาษาอังกฤษ default ไม่สนใจ case)
+indexOf() vs findIndex(): ต่างกันตรง parameter และการคืนค่า
+***การเรียงลำดับต้องมี “ความรู้ว่าอะไรน้อย–มาก–เท่า” → comparator function ต้อง return ค่าลบ/ศูนย์/บวก
